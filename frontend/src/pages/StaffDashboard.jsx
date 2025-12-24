@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { createIncident, getMyIncidents } from "../api/api";
 import IncidentTable from "../components/IncidentTable";
 import IncidentForm from "../components/IncidentForm";
-import Header from "../components/header";
+import Header from "../components/Header"
 
 function StaffDashboard() {
   const [incidents, setIncidents] = useState([]);

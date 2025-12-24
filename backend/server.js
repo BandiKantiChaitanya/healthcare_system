@@ -1,7 +1,7 @@
 // import express
 const express=require('express')
 const cors=require('cors')
-const staffRouter = require('./routes/staffrouter')
+const staffRouter = require('./routes/staffRouter')
 const adminRouter = require('./routes/adminRouter')
 const router = require('./routes/authorization')
 require("dotenv").config()

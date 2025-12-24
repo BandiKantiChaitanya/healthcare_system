@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { getAllIncidents, updateIncident } from "../api/api";
 import AuditLogs from "../components/AuditLogs";
-import Header from "../components/header";
+import Header from "../components/Header";
 
 
 
