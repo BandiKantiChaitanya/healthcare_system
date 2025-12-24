@@ -13,6 +13,25 @@ It supports:
 
 --------------------------------------------------
 
+## Live Demo
+
+[Live Demo](https://healthcare-system-six.vercel.app/)
+
+The application is deployed and accessible online. You can explore both admin and staff functionalities using the demo credentials below.
+
+---
+
+## Demo Credentials
+
+### Admin
+- **Email:** admin1@gmail.com  
+- **Password:** mypassword  
+
+### Staff
+- **Email:** staff1@gmail.com  
+- **Password:** mypassword  
+
+
 ## Architecture
 
 Root  
@@ -83,8 +102,8 @@ Root
 
 ### Step 1: Clone the repository
 
-git clone <repo-url>  
-cd <repo-folder>  
+git clone https://github.com/BandiKantiChaitanya/healthcare_system   
+cd healthcare_system
 
 ### Step 2: Install dependencies
 
